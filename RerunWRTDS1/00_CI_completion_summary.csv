@@ -1,0 +1,4 @@
+"Constituent","Total_comparisons","Completed_CI95","Completed_trial_CI","Failed","Skipped","Not_requested","Pending","Running","Interrupted","Requested_replicate_slots","Valid_replicates"
+"TKN",40,36,0,0,4,0,0,0,0,3600,3600
+"TN",40,36,0,0,4,0,0,0,0,6300,6300
+"TP",40,36,0,0,4,0,0,0,0,3600,3600

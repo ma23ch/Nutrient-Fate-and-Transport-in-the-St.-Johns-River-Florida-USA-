@@ -1,0 +1,2 @@
+"Site","Constituent","From_WY","To_WY","Stage","Requested_so_far","Valid","Target","Workers","Elapsed_seconds","New_requested_this_run","Estimated_seconds_remaining_current_comparison","Updated","Checkpoint"
+"Jacksonville","TP",2019,2024,"COMPLETE",100,100,100,2,147.9,100,0,"2026-10-26 18:40:23 EDT","C:/Users/ma23ch/OneDrive - Florida State University/Desktop/WRTDS/Reviewer_Revision_WRTDS/Rerun_20261026_174927/Models/Jacksonville_TP/EGRETci_change_WY2019_2024.rds"

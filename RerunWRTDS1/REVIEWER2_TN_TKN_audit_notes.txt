@@ -1,0 +1,5 @@
+TN/TKN records are matched by date only; verify station, fraction, method, and activity IDs.
+Detected TN<TKN flags require source-data investigation, not automatic replacement.
+TN_ge_TKN_supported means the available detection/bound supports the ordering;
+FALSE does not alone establish a violation when either measurement is censored.
+Independent modeled annual curves are not forced to satisfy TN>=TKN.
