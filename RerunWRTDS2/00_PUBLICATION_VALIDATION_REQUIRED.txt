@@ -1,0 +1,28 @@
+READ BEFORE SUBMISSION
+This script computes EGRET WRTDS, not the separate WRTDStidal salinity analysis.
+Source files and earlier run directories are preserved.
+Existing Final.CSV zeros may represent previously zeroed reverse flows;
+adjust=TRUE does not reconstruct the original signed hydrology.
+Flux is a model output under that scenario, not net signed tidal transport.
+Validate source Q units, station/gauge pairing, censoring, and TN/TKN comparability.
+WY2024 begins 2023-10-01. Missing or sparse samples require endpoint review.
+Comparison years are not automatically moved when an endpoint is unsupported.
+Point estimates are preserved even where a change CI cannot be calculated.
+Missing CI limits are NA, never zero. Read CI_status and CI_note for every row.
+Fewer than three endpoint samples is an audit flag, not an automatic validity test.
+00_export_status.csv reports file exports; it does not certify complete uncertainty.
+00_CI_change_status.csv and 00_CI_completion_summary.csv report change-CI coverage.
+Annual confidence bands and change confidence intervals are separate analyses.
+V9 print-safe drawing, censored flux bounds, and optional four-panel split pages are retained.
+00_Model_QC_summary.csv records the QC state of all twelve requested models.
+Per-model Sample/Daily largest-prediction files expose dates and discharge for inspection.
+Model_QC_review_flag is separate from computational CI_status; completed intervals
+on flagged fits still require model review before scientific interpretation.
+For Figures 5-7 annual bands, set RUN_CI_BANDS=TRUE; it is FALSE by default.
+Change-CI limits are pointwise intervals, not simultaneous intervals across all comparisons.
+If source inputs or intended fitting/import settings change, set USE_SAVED_MODELS=FALSE.
+V10 reuses compatible bootstrap archives only when model hash, settings, versions, and years match.
+Legacy bootstrap files without matching CI-engine metadata are recalculated.
+TN/TKN date matching does not establish identical station, fraction, or physical sample.
+Computed final change CIs: 12 of 120 comparison rows.
+HYDROLOGY_VALIDATED=FALSE: outputs remain exploratory pending hydrologic validation.

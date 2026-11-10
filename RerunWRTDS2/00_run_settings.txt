@@ -1,0 +1,24 @@
+Script: StJohns_WRTDS_All12_ReviewerRevision_v10_CI_PrintSafeSupp.R
+Run directory: C:/Users/ma23ch/OneDrive - Florida State University/Desktop/WRTDS/Reviewer_Revision_WRTDS/Rerun_20261024_204813
+Saved model source: C:/Users/ma23ch/OneDrive - Florida State University/Desktop/WRTDS/Reviewer_Revision_WRTDS/Rerun_20261024_004348/Models
+EGRET: 3.0.12
+EGRETci: 2.0.5
+USE_SAVED_MODELS: TRUE
+Allow fresh fits: TRUE
+Requested fresh-fit input Q code: 1 (1=cfs, 2=m^3/s)
+Requested fresh-fit ZERO_ADJUST: TRUE
+Reused models retain their existing imported discharge and fitting parameters.
+Water-year start month: 10 length: 12
+Comparison years: 2004,2009,2014,2019,2024
+RUN_CI_CHANGES: TRUE
+RUN_CI_BANDS: FALSE
+Bootstrap replicates requested: 1000
+Bootstrap block length, days: 200
+Minimum valid replicate fraction: 0.9
+Requested windows: 2004_2009, 2004_2014, 2004_2019, 2004_2024, 2009_2014, 2009_2019, 2009_2024, 2014_2019, 2014_2024, 2019_2024
+Quantiles: 0.025 and 0.975, R quantile type=6.
+Annual daily flux: kg/day * 365.25 / 1000 -> 10^3 kg/year.
+runPairsBoot flux changes: 10^6 kg/year * 1000 -> 10^3 kg/year.
+Final change CIs completed: 12 of 120
+Trial change CIs completed: 0
+HYDROLOGY_VALIDATED reporting flag: FALSE

@@ -1,0 +1,7 @@
+Figure 6. Annual and flow-normalized TN concentration and flux estimates at four St. Johns River locations.
+Black dots represent EGRET annual model estimates; dark green lines connect annual flow-normalized estimates.
+Concentration in mg/L; annual flux rate in 10^3 kg/year.
+No EGRETci confidence bands are shown; intervals have not been computed.
+Water year: October through September.
+The modeled flux does not represent net signed bidirectional tidal transport.
+Publication figure requires model and hydrologic validation before submission.

@@ -1,0 +1,2 @@
+"From_WY","To_WY","Exact_annual_change_mgL","Pair_change_mgL","Exact_annual_change_1000kgyr","Pair_change_1000kgyr","Conc_difference","Flux_difference_1000kgyr","Median_boot_change_mgL","Median_boot_change_1000kgyr","n_good","n_requested","reused_bootstrap"
+2014,2019,0.0504484540806225,0.0504484540806225,1.35546465211405,1.35546465211411,0,6.21724893790088e-14,0.0439722801536857,-2.85973914490656,1000,1000,FALSE

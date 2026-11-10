@@ -1,0 +1,27 @@
+
+   Rockledge 
+   TN
+   Water Year 
+
+ Change estimates are for  2019  minus  2014
+
+Should we reject Ho that Flow Normalized Concentration Trend = 0 ? Do Not Reject Ho
+ best estimate of change in concentration is  0.0504 mg/L
+  Lower and Upper 90% CIs -0.158441 0.2606255
+ also 95% CIs -0.1761967 0.3060424 
+ and 50% CIs -0.0501751 0.1348027
+ approximate two-sided p-value for Conc      0.73
+ Likelihood that Flow Normalized Concentration is trending up = 0.637  is trending down = 0.363
+
+Should we reject Ho that Flow Normalized Flux Trend = 0 ? Do Not Reject Ho
+ best estimate of change in flux is  0.00136 10^6 kg/year
+  Lower and Upper 90% CIs -0.2763624 0.2310203
+ also 95% CIs -0.3035408 0.2679684 
+ and 50% CIs -0.1469114 0.09926246
+ approximate two-sided p-value for Flux      0.99
+ Likelihood that Flow Normalized Flux is trending up = 0.496  is trending down = 0.504
+
+ Upward trend in concentration is about as likely as not 
+ Upward trend in flux is about as likely as not
+ Downward trend in concentration is about as likely as not 
+ Downward trend in flux is about as likely as not
