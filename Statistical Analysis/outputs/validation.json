@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "N_records": 3767,
+  "N_censored": 323,
+  "checks": [
+    "All source rows retained",
+    "Counts/endpoints match supplied Table S4 snapshot",
+    "No duplicate dates",
+    "No unknown qualifiers",
+    "No nutrient interpolation or averaging",
+    "Type-7 quartiles checked against explicit interpolation formula",
+    "All visible text is inside figure canvas",
+    "Full observed numeric range retained",
+    "Numerical plotting records and box summaries unchanged from pre-color exports",
+    "Both colored figures visually inspected",
+    "PNG/TIFF resolution and RGB color preservation verified",
+    "PDF physical sizes and minimum visible text of 11 pt verified"
+  ],
+  "font_points": {
+    "axes": 12,
+    "ticks": 11,
+    "counts": 11,
+    "legend": 11,
+    "panel_letters": 13
+  },
+  "physical_size_inches": {
+    "S30": [
+      7.2,
+      8.8
+    ],
+    "S31": [
+      7.2,
+      8.2
+    ]
+  },
+  "raster_dpi": 600,
+  "renderer": "Python reference renderer (NumPy/Matplotlib)",
+  "site_colors": {
+    "Rockledge": "#0072B2",
+    "Sanford": "#D55E00",
+    "Cow Creek": "#009E73",
+    "Jacksonville": "#CC79A7"
+  },
+  "R_execution": "Not executed in this environment; matching base-R implementation supplied"
+}

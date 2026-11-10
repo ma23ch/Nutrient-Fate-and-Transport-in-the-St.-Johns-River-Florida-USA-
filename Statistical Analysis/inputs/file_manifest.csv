@@ -1,0 +1,13 @@
+Site,Nutrient,Filename,Expected_n,Expected_censored,First_date,Last_date,Source_md5
+Rockledge,TKN,TKN_Rockledge(6).csv,397,11,1999-01-07,2023-05-17,6bd6d08e60ca8fbc914b40046b7b4bfe
+Sanford,TKN,TKN_Sanford(5).csv,284,1,1999-01-26,2023-11-08,3864737f58d92b04c6d20deec1a9fcfe
+Cow Creek,TKN,TKN_CowCreek(8).csv,409,242,1999-01-14,2023-11-16,5157a9ca5b7cefafac00ea7492e9e231
+Jacksonville,TKN,TKN_Jacksonville(6).csv,112,2,1999-01-26,2023-11-28,0ef85f62f2f3c9f5e1617eb5504f0dd7
+Rockledge,TN,TN_Rockledge(6).csv,178,0,1999-01-13,2022-08-15,0e4a6fa0048e686c651f264192128393
+Sanford,TN,TN_Sanford(6).csv,208,0,1999-02-08,2023-11-08,6a9559a2e0c964439408bb75ad5a1579
+Cow Creek,TN,TN_CowCreek(5).csv,213,0,1999-08-10,2023-11-16,5d47fea59483ac7cbcbd3e08ee9b3f6f
+Jacksonville,TN,TN_Jacksonville(6).csv,415,2,1999-01-21,2024-03-11,fd3ed73041d80119620de57e6d74187f
+Rockledge,TP,TP_Rockledge(5).csv,356,16,1999-01-07,2022-08-15,e06c4ee44eef64b6a768ad338f135afa
+Sanford,TP,TP_Sanford(5).csv,386,1,1999-01-26,2023-11-08,cf19ebc5d640b3136ed7690670dfec3b
+Cow Creek,TP,TP_CowCreek(5).csv,385,0,1999-01-14,2023-11-16,16073110eabb1fcd0016727679f3c6ed
+Jacksonville,TP,TP_Jacksonville(2).csv,424,48,1999-01-21,2024-03-11,1151e9bc6138ddd060adc8033c591a0a

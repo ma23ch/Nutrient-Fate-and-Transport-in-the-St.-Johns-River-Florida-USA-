@@ -1,0 +1,13 @@
+"Land cover","Target","r","N"
+"Agriculture composite","TP concentration change (%)",-0.989373726155244,3
+"Wetlands","TP concentration change (%)",-0.954379444983328,4
+"Forest","TP concentration change (%)",-0.775372699325934,4
+"Developed","TP concentration change (%)",-0.691528392069972,4
+"Barren land","TP concentration change (%)",-0.19942370776711,3
+"Open water","TP concentration change (%)",0.197630274311549,4
+"Agriculture composite","TP exploratory flux change (%)",-0.985269333159133,3
+"Wetlands","TP exploratory flux change (%)",-0.962077644025592,4
+"Developed","TP exploratory flux change (%)",-0.778900472770448,4
+"Forest","TP exploratory flux change (%)",-0.76343329485995,4
+"Barren land","TP exploratory flux change (%)",-0.224775160080952,3
+"Open water","TP exploratory flux change (%)",0.162834744662347,4

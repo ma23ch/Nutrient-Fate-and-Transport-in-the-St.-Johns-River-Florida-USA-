@@ -1,0 +1,25 @@
+Site,Variable,Displayed_value,Used_value,Treatment
+Rockledge,Water,−3.32% (−64.80),-3.32,Displayed percentage change
+Rockledge,Developed,+25.94% (+67.05),25.94,Displayed percentage change
+Rockledge,Barren Land,−81.61% (−6.39),-81.61,Displayed percentage change
+Rockledge,Forest,+30.27% (+18.09),30.27,Displayed percentage change
+Rockledge,Agriculture,+0.10% (+2.70),0.1,Displayed percentage change
+Rockledge,Wetlands,−0.21% (−16.65),-0.21,Displayed percentage change
+Sanford,Water,+0.49% (+18.99),0.49,Displayed percentage change
+Sanford,Developed,"+19.20% (+1,202.40)",19.2,Displayed percentage change
+Sanford,Barren Land,−23.57% (−3.33),-23.57,Displayed percentage change
+Sanford,Forest,−44.37% (−397.53),-44.37,Displayed percentage change
+Sanford,Agriculture,−65.41% (−621.63),-65.41,Displayed percentage change
+Sanford,Wetlands,−4.20% (−198.90),-4.2,Displayed percentage change
+Cow Creek,Water,+0.96% (+48.33),0.96,Displayed percentage change
+Cow Creek,Developed,+19.82% (+341.55),19.82,Displayed percentage change
+Cow Creek,Barren Land,+34.42% (+12.33),34.42,Displayed percentage change
+Cow Creek,Forest,−14.30% (−517.86),-14.3,Displayed percentage change
+Cow Creek,Agriculture,+4.41% (+142.92),4.41,Displayed percentage change
+Cow Creek,Wetlands,−0.96% (−27.27),-0.96,Displayed percentage change
+Jacksonville,Water,−0.46% (−7.02),-0.46,Displayed percentage change
+Jacksonville,Developed,+0.32% (+13.59),0.32,Displayed percentage change
+Jacksonville,Barren Land,≈0% (+0.09),,Unavailable: approximate zero
+Jacksonville,Forest,−47.79% (−5.85),-47.79,Displayed percentage change
+Jacksonville,Agriculture,≈0% (+0.09),,Unavailable: approximate zero
+Jacksonville,Wetlands,−5.41% (−0.90),-5.41,Displayed percentage change

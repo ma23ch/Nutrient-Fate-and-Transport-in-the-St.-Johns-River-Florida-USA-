@@ -1,0 +1,13 @@
+"Land cover","Target","r","N"
+"Developed","TN concentration change (%)",0.918299470818318,4
+"Agriculture composite","TN concentration change (%)",-0.842931463115982,3
+"Barren land","TN concentration change (%)",-0.58342981382002,3
+"Wetlands","TN concentration change (%)",0.544027327985235,4
+"Forest","TN concentration change (%)",0.426782118040773,4
+"Open water","TN concentration change (%)",-0.100380242216666,4
+"Barren land","TN exploratory flux change (%)",0.706524831602059,3
+"Agriculture composite","TN exploratory flux change (%)",-0.667884676672227,3
+"Developed","TN exploratory flux change (%)",0.601937094245221,4
+"Open water","TN exploratory flux change (%)",0.531637240201349,4
+"Wetlands","TN exploratory flux change (%)",0.231176935222996,4
+"Forest","TN exploratory flux change (%)",-0.0860642491324515,4

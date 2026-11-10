@@ -1,0 +1,5 @@
+Analysis validated: four sites; 12 nutrient input rows; 12 correlation rows per nutrient.
+N = 3 for barren land/agriculture composite; N = 4 for the other land-cover classes.
+PCA uses six variables and at most three nonzero components; centering, scaling, reconstruction, and variable correlations checked.
+The nutrient inputs are displayed main-table point estimates; their uncertainty is not propagated here.
+This script does not refit WRTDS or validate source-station assignments or discharge representativeness.

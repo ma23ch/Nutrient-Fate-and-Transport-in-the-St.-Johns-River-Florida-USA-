@@ -1,0 +1,15 @@
+{
+  "source_manuscript": "Main Draft 10242026(20261110-182051).docx",
+  "source_sha256": "62ebbe2426cee389878583e9fbec08d8454219b5c2f4df501e63c7952a3499f2",
+  "tracked_changes": "Insertions included; deletions excluded",
+  "nutrient_basis": "Displayed percentage changes in main Tables 2, 3 and 4",
+  "land_cover_basis": "Displayed percentage changes in main Table 5; not percentage points",
+  "periods": {
+    "Rockledge": "WY2004-WY2019",
+    "Sanford": "WY2004-WY2024",
+    "Cow Creek": "WY2004-WY2024",
+    "Jacksonville": "WY2004-WY2024"
+  },
+  "missing_values": "Approximate Jacksonville barren/agriculture zeros remain unavailable",
+  "precision": "Displayed manuscript precision; no hidden digits reconstructed"
+}

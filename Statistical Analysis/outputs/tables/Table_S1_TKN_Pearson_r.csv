@@ -1,0 +1,13 @@
+"Land cover","Target","r","N"
+"Barren land","TKN concentration change (%)",0.751995483580712,3
+"Wetlands","TKN concentration change (%)",0.715500211871813,4
+"Agriculture composite","TKN concentration change (%)",0.699408823204706,3
+"Developed","TKN concentration change (%)",0.516871166759617,4
+"Forest","TKN concentration change (%)",0.371685390963318,4
+"Open water","TKN concentration change (%)",0.30865444956033,4
+"Barren land","TKN exploratory flux change (%)",0.79815540508253,3
+"Wetlands","TKN exploratory flux change (%)",0.679073292072604,4
+"Agriculture composite","TKN exploratory flux change (%)",0.645308464130567,3
+"Developed","TKN exploratory flux change (%)",0.499676867098381,4
+"Open water","TKN exploratory flux change (%)",0.361894168874273,4
+"Forest","TKN exploratory flux change (%)",0.320951879356596,4

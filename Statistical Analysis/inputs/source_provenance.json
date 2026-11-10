@@ -1,0 +1,8 @@
+{
+  "main_manuscript": "Main Draft 10242026(20261110-190925).docx",
+  "supplement": "Supplementary 10272026(20261110-190925).docx",
+  "main_sha256": "62ebbe2426cee389878583e9fbec08d8454219b5c2f4df501e63c7952a3499f2",
+  "supplement_sha256": "b6ef034eaf7ec259010503cd996c922beb61073788612c0ba7480c2c7aa5e18e",
+  "purpose": "Observed working-record diagnostics for Figures S30-S31; not model refitting or provider-source harmonization.",
+  "censoring": "Working-file qualifiers only; supplied censored numeric entries are display references, not verified laboratory reporting limits."
+}

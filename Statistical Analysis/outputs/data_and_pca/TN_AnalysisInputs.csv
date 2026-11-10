@@ -1,0 +1,5 @@
+"Site","Water","Developed","Barren Land","Forest","Agriculture","Wetlands","Constituent","From_WY","To_WY","Concentration_change_pct","Flux_change_pct","Source_table","Source_docx_table_index","Source_row_index","Source_file"
+"Rockledge",-3.32,25.94,-81.61,30.27,0.1,-0.21,"TN",2004,2019,4.6,-15,"Table 3",4,5,"Main Draft 10242026(20261110-182051).docx"
+"Sanford",0.49,19.2,-23.57,-44.37,-65.41,-4.2,"TN",2004,2024,8.9,3.74,"Table 3",4,13,"Main Draft 10242026(20261110-182051).docx"
+"Cow Creek",0.96,19.82,34.42,-14.3,4.41,-0.96,"TN",2004,2024,-1.5,-1.3,"Table 3",4,24,"Main Draft 10242026(20261110-182051).docx"
+"Jacksonville",-0.46,0.32,,-47.79,,-5.41,"TN",2004,2024,-23,-25,"Table 3",4,35,"Main Draft 10242026(20261110-182051).docx"
